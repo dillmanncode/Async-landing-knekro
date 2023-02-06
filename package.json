@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-knekro",
+  "version": "1.0.0",
+  "description": "Landing creada en el curso de Asincronismo con JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillmanncode/Async-landing-knekro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillmanncode/Async-landing-knekro/issues"
+  },
+  "homepage": "https://github.com/dillmanncode/Async-landing-knekro#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
